@@ -1,0 +1,10 @@
+{
+    "response_type": "in_channel",
+    "text": "Ticket #123456: http://domain.com/ticket/123456",
+    "attachments": [
+        {
+            "title": "App hangs on reboot",
+            "text": "If I restart my computer without quitting your app, it stops the reboot sequence.",
+        }
+    ]
+}
